@@ -95,5 +95,3 @@ Data Visualization
 
 
 
-# Author
-Pasupuleti Mohan Kumar
